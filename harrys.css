@@ -90,14 +90,14 @@ h3{
 
 .container-1-left{
     
-    background-image: url(/images/cont-1-left.jpg);
+    background-image: url(images/cont-1-left.jpg);
     background-size: 100% 100% ;
     background-repeat: no-repeat;
     padding: 20px 50px ;
 }
 .container-1-right{
     
-    background-image: url(/images/cont-1-right.jpg);
+    background-image: url(images/cont-1-right.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 20px ;    
@@ -180,7 +180,7 @@ h3{
 }
 
 .container-3-left{
-    background-image: url(/images/container-3-left.jpg);
+    background-image: url(images/container-3-left.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     
@@ -191,7 +191,7 @@ h3{
        
 }
 .container-3-right{
-    background-image: url(/images/container-3-right.jpg);
+    background-image: url(images/container-3-right.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
